@@ -7,3 +7,4 @@ export type {
   Organization,
   OrganizationProviderProps,
 } from "./OrganizationProvider";
+export { AuthProvider, useAuth } from "./AuthProvider";

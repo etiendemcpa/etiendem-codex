@@ -1,1 +1,1 @@
-export const placeholder = "auth";
+export { AuthProvider, useAuth } from "./AuthProvider";
